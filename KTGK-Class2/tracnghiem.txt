@@ -1,0 +1,18 @@
+1.Kết quả được in ra màn hình
+Array ( [0] => 1 [1] => 2 [2] => 3 [3] => 4 [4] => 5 [5] => 6 [6] => 9 )
+
+
+2.Trong PHP, điều kiện sau đây sẽ trả về true hay false: 0 == '0'
+a) True
+
+
+3.Cách nào sau đây được sử dụng để khai báo một mảng trong PHP?
+a) array()
+
+
+4.Hàm nào được sử dụng để đọc nội dung của một tệp trong PHP?
+a) readfile()
+
+
+5.Hàm serialize() trong PHP được sử dụng để làm gì?
+b) Chuyển đổi một đối tượng thành một chuỗi
