@@ -1,0 +1,14 @@
+<?php
+function maxOfThree($a, $b, $c) {
+    $max = $a;
+    if ($b > $max) {
+        $max = $b;
+    }
+    if ($c > $max) {
+        $max = $c;
+    }
+    return $max;
+}
+
+echo "Số lớn nhất là: " . maxOfThree(15, 28, 9); // Kết quả: 28
+?>
